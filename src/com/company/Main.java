@@ -63,6 +63,7 @@ public class Main {
                     System.out.println("Enter number.");
                     a = scan.nextInt();
                     System.out.println("Result : " +calq1.countfactorial(a));
+                    System.out.println("\n");
                     break;
                 }
                 case 6:{
